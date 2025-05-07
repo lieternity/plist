@@ -34,6 +34,7 @@ var imageExtensions = map[string]bool{
 	".png":  true,
 	".gif":  true,
 	".webp": true,
+	".mp4": true,
 }
 
 func initEnv() {
